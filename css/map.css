@@ -1,0 +1,190 @@
+*{
+	margin: 0 auto;
+	padding: 0;
+}
+
+body{
+	width: 100%;
+	height: 1280px;
+	
+}
+
+/*基础背景*/
+.background{
+	width: 100%;
+	height: 1280px;
+	
+	z-index: -1;
+}
+.background img{
+	position: absolute;
+	top: 188px;
+}
+
+.tree{
+	z-index: 95;
+}
+
+.tree img{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.tree-1 img{
+	position: absolute;
+	top: 401px;
+	left: 247px;
+	z-index: 101;
+}
+
+
+.lu img{
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 98;
+
+}
+
+/*逸夫楼*/
+
+
+.yifulou-1 img{
+	position: absolute;
+	top: 347px;
+	left: 0px;
+	z-index: 99;
+}
+
+.yifulou img{
+	position: absolute;
+	top: 95px;
+	left: 0px;
+
+}
+
+
+
+.nanyuan-2 img{
+	position: absolute;
+	top: 322px;
+	left: 240px;
+}
+
+.nanyuan-1{
+	position: absolute;
+	top: 200px;
+	left: 263px;
+	z-index: 99;
+}
+
+
+
+.xuehuo img{
+	position: absolute;
+	top: 424px;
+	left: 419px;
+}
+
+.qinhu img{
+	position: absolute;
+	top: 560px;
+	left: 477px;
+}
+
+.libr img{
+	position: absolute;
+	top: 550px;
+	left: 199px;
+}
+
+.back-2 img{
+	position: absolute;
+	top: 447px;
+	left: 0;
+}
+
+.ert img{
+	position: absolute;
+	top: 478px;
+	left: 0;
+	z-index: 99;
+}
+
+.hmt img{
+	position: absolute;
+	top: 613px;
+	left: 117px;
+	z-index: 99;
+}
+
+.nanm img{
+	position: absolute;
+	top: 919px;
+	left: 0px;
+}
+
+.nanm-1 img{
+	position: absolute;
+	top: 836px;
+	left: 222px;
+	z-index: 99;
+}
+
+.jhl img{
+	position: absolute;
+	top: 811px;
+	left: 292px;
+	z-index: 0;
+}
+.jhl-1 img{
+	position: absolute;
+	top: 812px;
+	left: 360px;
+	z-index: 0;
+}
+
+
+.tyg img{
+	position: absolute;
+	top: 806px;
+	left: 506px;
+	z-index: 99;
+}
+
+.xx img{
+	position: absolute;
+	top: 849px;
+	left: 0px;
+
+}
+
+.xx-1 img{
+	position: absolute;
+	top: 863px;
+	left: 0px;
+	z-index: 99;
+}
+
+
+.julebu img{
+	position: absolute;
+	top: 154px;
+	left: 419px;
+	z-index: 99;
+}
+
+.wz img{
+	position: absolute;
+	top: 1119px;
+	left: 399px;
+	z-index: 99;
+}
+
+.zi img{
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 95;
+}
